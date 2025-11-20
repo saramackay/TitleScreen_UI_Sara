@@ -130,7 +130,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
           Culture=neutral, PublicKeyToken=null
-      m_SerializableObject: '{"obj":{"fileID":2800000,"guid":"4df6ffd8a9120eb4c9554dbcb1280dab","type":3}}'
+      m_SerializableObject: '{"obj":{"fileID":2800000,"guid":"e407cf0a0ad53004fb2688c7c9c06f2f","type":3}}'
     m_Space: -1
   m_Property:
     name: mainTexture
@@ -1042,7 +1042,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: UnityEditor.VFX.FlipBook, Unity.VisualEffectGraph.Editor,
           Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
-      m_SerializableObject: '{"x":2,"y":2}'
+      m_SerializableObject: '{"x":3,"y":3}'
     m_Space: -1
   m_Property:
     name: flipBookSize
