@@ -338,8 +338,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -598, y: -186}
-  m_SizeDelta: {x: 470, y: 146}
+  m_AnchoredPosition: {x: -598, y: -130}
+  m_SizeDelta: {x: 512, y: 256}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &89780151
 MonoBehaviour:
@@ -353,9 +353,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 723e89909720096409817ee470e3f7ab, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  defaultSprite: {fileID: 1946822721, guid: 132dad1b81481c946912cf1b57b874f9, type: 3}
-  hoverSprite: {fileID: -1396918720, guid: 132dad1b81481c946912cf1b57b874f9, type: 3}
-  clickSprite: {fileID: -29426328, guid: 132dad1b81481c946912cf1b57b874f9, type: 3}
+  defaultSprite: {fileID: 846117603, guid: f283f98e2d0056d419e3580c47f1963d, type: 3}
+  hoverSprite: {fileID: -759486850, guid: f283f98e2d0056d419e3580c47f1963d, type: 3}
+  clickSprite: {fileID: 1400676941, guid: f283f98e2d0056d419e3580c47f1963d, type: 3}
   clickSpriteDuration: 0.5
   clickSound: {fileID: 8300000, guid: 9b6ff2a5d60f39d4ebd1e24fd1157d06, type: 3}
 --- !u!114 &89780152
@@ -422,7 +422,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 1946822721, guid: 132dad1b81481c946912cf1b57b874f9, type: 3}
+  m_Sprite: {fileID: 846117603, guid: f283f98e2d0056d419e3580c47f1963d, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -744,8 +744,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -598, y: -289}
-  m_SizeDelta: {x: 479, y: 112}
+  m_AnchoredPosition: {x: -598, y: -233}
+  m_SizeDelta: {x: 512, y: 256}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &220743939
 MonoBehaviour:
@@ -759,9 +759,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 723e89909720096409817ee470e3f7ab, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  defaultSprite: {fileID: 1075516874, guid: 132dad1b81481c946912cf1b57b874f9, type: 3}
-  hoverSprite: {fileID: 327205270, guid: 132dad1b81481c946912cf1b57b874f9, type: 3}
-  clickSprite: {fileID: 824034357, guid: 132dad1b81481c946912cf1b57b874f9, type: 3}
+  defaultSprite: {fileID: 1798939702, guid: f283f98e2d0056d419e3580c47f1963d, type: 3}
+  hoverSprite: {fileID: 1176824730, guid: f283f98e2d0056d419e3580c47f1963d, type: 3}
+  clickSprite: {fileID: -684227596, guid: f283f98e2d0056d419e3580c47f1963d, type: 3}
   clickSpriteDuration: 0.5
   clickSound: {fileID: 8300000, guid: 9b6ff2a5d60f39d4ebd1e24fd1157d06, type: 3}
 --- !u!114 &220743940
@@ -840,7 +840,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 1075516874, guid: 132dad1b81481c946912cf1b57b874f9, type: 3}
+  m_Sprite: {fileID: 1798939702, guid: f283f98e2d0056d419e3580c47f1963d, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1397,7 +1397,7 @@ GameObject:
   - component: {fileID: 327513342}
   - component: {fileID: 327513341}
   m_Layer: 0
-  m_Name: Point Light (2)
+  m_Name: Pink Point Light 2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1923,7 +1923,7 @@ GameObject:
   - component: {fileID: 511490212}
   - component: {fileID: 511490211}
   m_Layer: 0
-  m_Name: Point Light (5)
+  m_Name: Red Point Light 2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2173,7 +2173,7 @@ GameObject:
   - component: {fileID: 609399512}
   - component: {fileID: 609399511}
   m_Layer: 0
-  m_Name: Point Light (3)
+  m_Name: Red Point Light
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2334,8 +2334,8 @@ Light:
   serializedVersion: 11
   m_Type: 0
   m_Color: {r: 0.9529412, g: 0.8784314, b: 0.7058824, a: 1}
-  m_Intensity: 1055.4
-  m_Range: 17
+  m_Intensity: 910.3
+  m_Range: 31.3
   m_SpotAngle: 49.409634
   m_InnerSpotAngle: 32.585213
   m_CookieSize: 10
@@ -2855,6 +2855,131 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6108e01c2d9e8ce42a904ea51212e9c2, type: 3}
+--- !u!1001 &1113619478
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -9068149077266702458, guid: fb63d56c35ebf0b4ab911159df3f06e5, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: b1db687c0735b79479a8ff974adc1c02, type: 2}
+    - target: {fileID: -9003323146575883303, guid: fb63d56c35ebf0b4ab911159df3f06e5, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: b1db687c0735b79479a8ff974adc1c02, type: 2}
+    - target: {fileID: -8679921383154817045, guid: fb63d56c35ebf0b4ab911159df3f06e5, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.61444986
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: fb63d56c35ebf0b4ab911159df3f06e5, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.61444986
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: fb63d56c35ebf0b4ab911159df3f06e5, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.61444986
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: fb63d56c35ebf0b4ab911159df3f06e5, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.344
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: fb63d56c35ebf0b4ab911159df3f06e5, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: fb63d56c35ebf0b4ab911159df3f06e5, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 10.523
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: fb63d56c35ebf0b4ab911159df3f06e5, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.57811207
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: fb63d56c35ebf0b4ab911159df3f06e5, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: fb63d56c35ebf0b4ab911159df3f06e5, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.81595737
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: fb63d56c35ebf0b4ab911159df3f06e5, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: fb63d56c35ebf0b4ab911159df3f06e5, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: fb63d56c35ebf0b4ab911159df3f06e5, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 109.364
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: fb63d56c35ebf0b4ab911159df3f06e5, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7023974396876390944, guid: fb63d56c35ebf0b4ab911159df3f06e5, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: b1db687c0735b79479a8ff974adc1c02, type: 2}
+    - target: {fileID: -6821315975633821789, guid: fb63d56c35ebf0b4ab911159df3f06e5, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: b1db687c0735b79479a8ff974adc1c02, type: 2}
+    - target: {fileID: -6390553425048673252, guid: fb63d56c35ebf0b4ab911159df3f06e5, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: b1db687c0735b79479a8ff974adc1c02, type: 2}
+    - target: {fileID: -6194784029616181176, guid: fb63d56c35ebf0b4ab911159df3f06e5, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: b1db687c0735b79479a8ff974adc1c02, type: 2}
+    - target: {fileID: -2268138116939433651, guid: fb63d56c35ebf0b4ab911159df3f06e5, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: b1db687c0735b79479a8ff974adc1c02, type: 2}
+    - target: {fileID: -227948702179264823, guid: fb63d56c35ebf0b4ab911159df3f06e5, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: b1db687c0735b79479a8ff974adc1c02, type: 2}
+    - target: {fileID: 882129737928793925, guid: fb63d56c35ebf0b4ab911159df3f06e5, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: b1db687c0735b79479a8ff974adc1c02, type: 2}
+    - target: {fileID: 919132149155446097, guid: fb63d56c35ebf0b4ab911159df3f06e5, type: 3}
+      propertyPath: m_Name
+      value: cat_HP_20251128
+      objectReference: {fileID: 0}
+    - target: {fileID: 2508812124418183303, guid: fb63d56c35ebf0b4ab911159df3f06e5, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: b1db687c0735b79479a8ff974adc1c02, type: 2}
+    - target: {fileID: 2786534777698132407, guid: fb63d56c35ebf0b4ab911159df3f06e5, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: b1db687c0735b79479a8ff974adc1c02, type: 2}
+    - target: {fileID: 3615449878971091806, guid: fb63d56c35ebf0b4ab911159df3f06e5, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: b1db687c0735b79479a8ff974adc1c02, type: 2}
+    - target: {fileID: 7293059144023096718, guid: fb63d56c35ebf0b4ab911159df3f06e5, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: b1db687c0735b79479a8ff974adc1c02, type: 2}
+    - target: {fileID: 7339356831882890532, guid: fb63d56c35ebf0b4ab911159df3f06e5, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: b1db687c0735b79479a8ff974adc1c02, type: 2}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: fb63d56c35ebf0b4ab911159df3f06e5, type: 3}
 --- !u!1001 &1172763865
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3475,7 +3600,7 @@ GameObject:
   - component: {fileID: 1821887750}
   - component: {fileID: 1821887749}
   m_Layer: 0
-  m_Name: Point Light (4)
+  m_Name: Purple Point Light
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3621,8 +3746,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -609.43, y: -401}
-  m_SizeDelta: {x: 413, y: 163}
+  m_AnchoredPosition: {x: -609.43, y: -345}
+  m_SizeDelta: {x: 512, y: 256}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1841535549
 MonoBehaviour:
@@ -3636,9 +3761,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 723e89909720096409817ee470e3f7ab, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  defaultSprite: {fileID: 1576099524, guid: 132dad1b81481c946912cf1b57b874f9, type: 3}
-  hoverSprite: {fileID: 109994087, guid: 132dad1b81481c946912cf1b57b874f9, type: 3}
-  clickSprite: {fileID: -1203921743, guid: 132dad1b81481c946912cf1b57b874f9, type: 3}
+  defaultSprite: {fileID: -1758782627, guid: f283f98e2d0056d419e3580c47f1963d, type: 3}
+  hoverSprite: {fileID: 144865088, guid: f283f98e2d0056d419e3580c47f1963d, type: 3}
+  clickSprite: {fileID: 491615847, guid: f283f98e2d0056d419e3580c47f1963d, type: 3}
   clickSpriteDuration: 0.5
   clickSound: {fileID: 8300000, guid: 9b6ff2a5d60f39d4ebd1e24fd1157d06, type: 3}
 --- !u!114 &1841535550
@@ -3717,7 +3842,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 1576099524, guid: 132dad1b81481c946912cf1b57b874f9, type: 3}
+  m_Sprite: {fileID: -1758782627, guid: f283f98e2d0056d419e3580c47f1963d, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -8659,7 +8784,7 @@ GameObject:
   - component: {fileID: 1859540364}
   - component: {fileID: 1859540363}
   m_Layer: 0
-  m_Name: Point Light (1)
+  m_Name: Pink Point Light
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -9326,6 +9451,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: HeroProp_Model_Sara
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b91cf9535c8440f4fb56a684302b5162, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -9426,3 +9555,4 @@ SceneRoots:
   - {fileID: 609399513}
   - {fileID: 511490213}
   - {fileID: 1821887751}
+  - {fileID: 1113619478}

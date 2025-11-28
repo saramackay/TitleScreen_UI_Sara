@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 132dad1b81481c946912cf1b57b874f9
+guid: f283f98e2d0056d419e3580c47f1963d
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -97,199 +97,199 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: TitleScreen_ButtonSprites_0
+      name: TitleScreen_ButtonSprites 1_0
       rect:
         serializedVersion: 2
-        x: 1023
-        y: 878
-        width: 484
-        height: 160
-      alignment: 9
-      pivot: {x: 0.48400426, y: 0.48387146}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b200fa6c695937849ba1668d4472e292
-      internalID: -29426328
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TitleScreen_ButtonSprites_1
-      rect:
-        serializedVersion: 2
-        x: 513
-        y: 878
-        width: 484
-        height: 160
-      alignment: 9
-      pivot: {x: 0.48400426, y: 0.48387146}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f56ca25553fa3b24aa6688f24f0e6906
-      internalID: -1396918720
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TitleScreen_ButtonSprites_2
-      rect:
-        serializedVersion: 2
-        x: 2
-        y: 878
-        width: 484
-        height: 160
-      alignment: 9
-      pivot: {x: 0.48400426, y: 0.48387146}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3a97043bd7a5c9f4d9bcb69c2eed50f3
-      internalID: 1946822721
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TitleScreen_ButtonSprites_3
-      rect:
-        serializedVersion: 2
-        x: 7
-        y: 641
-        width: 479
-        height: 112
+        x: 0
+        y: 824
+        width: 512
+        height: 256
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 64c1e73faf24165449a1c19fa755582c
-      internalID: 1075516874
+      spriteID: ac91b716c3c10654aabfa545fb0f1d2e
+      internalID: 846117603
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TitleScreen_ButtonSprites_4
+      name: TitleScreen_ButtonSprites 1_1
       rect:
         serializedVersion: 2
-        x: 561
-        y: 363
-        width: 413
-        height: 163
+        x: 512
+        y: 824
+        width: 512
+        height: 256
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4e185683eda969b40a1bc589d923c70e
-      internalID: 109994087
+      spriteID: ba6e5f96a09d16a41b2294a4eede74d6
+      internalID: -759486850
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TitleScreen_ButtonSprites_5
+      name: TitleScreen_ButtonSprites 1_2
       rect:
         serializedVersion: 2
-        x: 50
-        y: 363
-        width: 413
-        height: 163
+        x: 1024
+        y: 824
+        width: 512
+        height: 256
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 02396ffbbe4419f4b8c7a84e0351fc72
-      internalID: 1576099524
+      spriteID: c381270eacc07e442aea6bed1fa40dc4
+      internalID: 1400676941
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TitleScreen_ButtonSprites_13
+      name: TitleScreen_ButtonSprites 1_3
       rect:
         serializedVersion: 2
-        x: 515
-        y: 641
-        width: 489
-        height: 112
+        x: 0
+        y: 568
+        width: 512
+        height: 256
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6607342e22e418e46a8a24c846a0e2b4
-      internalID: 327205270
+      spriteID: 7e4a3a2e81fb3cc4b854c270a62e0940
+      internalID: 1798939702
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TitleScreen_ButtonSprites_14
+      name: TitleScreen_ButtonSprites 1_4
       rect:
         serializedVersion: 2
-        x: 1027
-        y: 641
-        width: 489
-        height: 112
+        x: 512
+        y: 568
+        width: 512
+        height: 256
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5a040dbbd67efe0409a7387992cce41c
-      internalID: 824034357
+      spriteID: 2ec880f3088b00c4688c21a5e3a8d923
+      internalID: 1176824730
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TitleScreen_ButtonSprites_20
+      name: TitleScreen_ButtonSprites 1_5
       rect:
         serializedVersion: 2
-        x: 1073
-        y: 363
-        width: 413
-        height: 163
+        x: 1024
+        y: 568
+        width: 512
+        height: 256
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9956914c7def2a24a84b0be61d5dfbd9
-      internalID: -1203921743
+      spriteID: 5e732b2342f809743881d077ea12de73
+      internalID: -684227596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreen_ButtonSprites 1_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 312
+        width: 512
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 012f5be2f39ff644788ff28b987dda2f
+      internalID: -1758782627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreen_ButtonSprites 1_7
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 312
+        width: 512
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 124c77f89be848d45803a526dc432e2f
+      internalID: 144865088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreen_ButtonSprites 1_8
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 312
+        width: 512
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e2573c7e369eb442bf7b535b31c6616
+      internalID: 491615847
       vertices: []
       indices: 
       edges: []
@@ -298,7 +298,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 73a59aa06931912469389c0fdc9f15ed
+    spriteID: 8790f0e414adc3e4d87a0bb130362f32
     internalID: 0
     vertices: []
     indices: 
@@ -308,56 +308,15 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      TitleScreen_ButtonSprites_0: -29426328
-      TitleScreen_ButtonSprites_1: -1396918720
-      TitleScreen_ButtonSprites_10: 858548040
-      TitleScreen_ButtonSprites_11: -843231278
-      TitleScreen_ButtonSprites_12: 347778588
-      TitleScreen_ButtonSprites_13: 327205270
-      TitleScreen_ButtonSprites_14: 824034357
-      TitleScreen_ButtonSprites_15: -947729501
-      TitleScreen_ButtonSprites_16: -1799158183
-      TitleScreen_ButtonSprites_17: 1031602053
-      TitleScreen_ButtonSprites_18: -1736240192
-      TitleScreen_ButtonSprites_19: -1816563317
-      TitleScreen_ButtonSprites_2: 1946822721
-      TitleScreen_ButtonSprites_20: -1203921743
-      TitleScreen_ButtonSprites_21: 1731700718
-      TitleScreen_ButtonSprites_22: -1481557711
-      TitleScreen_ButtonSprites_23: -2073974796
-      TitleScreen_ButtonSprites_24: -1633987650
-      TitleScreen_ButtonSprites_25: -962413409
-      TitleScreen_ButtonSprites_26: 362422709
-      TitleScreen_ButtonSprites_27: 1568786629
-      TitleScreen_ButtonSprites_28: 1097308885
-      TitleScreen_ButtonSprites_29: -1316151150
-      TitleScreen_ButtonSprites_3: 1075516874
-      TitleScreen_ButtonSprites_30: -352888817
-      TitleScreen_ButtonSprites_31: 725798861
-      TitleScreen_ButtonSprites_32: -80507102
-      TitleScreen_ButtonSprites_33: 1714875561
-      TitleScreen_ButtonSprites_34: 1065733656
-      TitleScreen_ButtonSprites_35: -379370293
-      TitleScreen_ButtonSprites_36: 296711163
-      TitleScreen_ButtonSprites_37: 1486497152
-      TitleScreen_ButtonSprites_38: -1301940057
-      TitleScreen_ButtonSprites_39: 2015956068
-      TitleScreen_ButtonSprites_4: 109994087
-      TitleScreen_ButtonSprites_40: 1155883803
-      TitleScreen_ButtonSprites_41: -1901549865
-      TitleScreen_ButtonSprites_42: -1315315251
-      TitleScreen_ButtonSprites_43: -1182778308
-      TitleScreen_ButtonSprites_44: 312689158
-      TitleScreen_ButtonSprites_45: -1584979219
-      TitleScreen_ButtonSprites_46: -1029249661
-      TitleScreen_ButtonSprites_47: -1408776545
-      TitleScreen_ButtonSprites_48: -2048623985
-      TitleScreen_ButtonSprites_49: 1160171644
-      TitleScreen_ButtonSprites_5: 1576099524
-      TitleScreen_ButtonSprites_6: -13983276
-      TitleScreen_ButtonSprites_7: 1647252968
-      TitleScreen_ButtonSprites_8: -64823319
-      TitleScreen_ButtonSprites_9: -546800606
+      TitleScreen_ButtonSprites 1_0: 846117603
+      TitleScreen_ButtonSprites 1_1: -759486850
+      TitleScreen_ButtonSprites 1_2: 1400676941
+      TitleScreen_ButtonSprites 1_3: 1798939702
+      TitleScreen_ButtonSprites 1_4: 1176824730
+      TitleScreen_ButtonSprites 1_5: -684227596
+      TitleScreen_ButtonSprites 1_6: -1758782627
+      TitleScreen_ButtonSprites 1_7: 144865088
+      TitleScreen_ButtonSprites 1_8: 491615847
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
